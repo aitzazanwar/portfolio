@@ -17,5 +17,5 @@ A short introduction with an avatar, which will be replaced with my profile pict
 
 The body part of the page is the main part suppose to show my first application. Also the "divs" contain the "HTML" and "CSS" definition.
 ## footer
-A footer with some cosiderable height and bright colr is added at the bottom of the page and socail media and other links shall be added.
+A footer with some cosiderable height and bright color is added at the bottom of the page and social media and other links shall be added.
 
